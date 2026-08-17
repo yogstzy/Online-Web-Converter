@@ -1,7 +1,7 @@
 # Online-Web-Converter
 Support JPG&PNG dibuat dengan Html+Css+Js 
 
-## Download library sebelum run
+## Download library 
 
 ```
 curl -o lib/jspdf.min.js https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
